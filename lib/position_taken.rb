@@ -1,5 +1,11 @@
 # code your #position_taken? method here!
-position_taken(board)
+def position_taken(index)
+
+  if board[index] == " "
+
+
+
+  end
 
 
 
